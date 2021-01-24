@@ -1,9 +1,9 @@
 site_name: {{ cookiecutter.project_name }}
 site_description: {{ cookiecutter.description }}
 site_favicon: favicon.ico
-repo_url: https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}
+repo_url: https://github.com/jartigag/{{ cookiecutter.repo_name }}
 edit_uri: edit/master/docs/docs
-copyright: Project maintained by <a target=_blanks href="https://github.com/{{ cookiecutter.github_username }}">{{ cookiecutter.author_name }}</a>.
+copyright: Project maintained by <a target=_blanks href="https://github.com/jartigag">{{ cookiecutter.author_name }}</a>.
 theme: cinder
 extra_css:
   - css/extra.css
