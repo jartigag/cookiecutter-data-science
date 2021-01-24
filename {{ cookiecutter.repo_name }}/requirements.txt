@@ -3,7 +3,8 @@
 
 # external requirements
 click
-Sphinx
+mkdocs
+mkdocs-cinder
 coverage
 awscli
 flake8

@@ -14,7 +14,7 @@ Project Organization
     │   ├── processed      <- The final, canonical data sets for modeling.
     │   └── raw            <- The original, immutable data dump.
     │
-    ├── docs               <- #TODO: simpler than Sphinx (mkdocs, maybe)
+    ├── docs               <- A default MkDocs project; see mkdocs.org for details
     │
     ├── models             <- Trained and serialized models, model predictions, or model summaries
     │
